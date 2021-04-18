@@ -2,11 +2,10 @@
  
 # Source Codes - Mfuz API
 <p align="center">
-<a href="#"><img title="Zhirrr's API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Mfuz API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Mfuz1"><img title="Author" src="https://img.shields.io/badge/Author-Mfuz
--orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Mfuz1"><img title="Author" src="https://img.shields.io/badge/Author-Mfuz-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Zhirrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zhirrr?color=red&style=flat-square"></a>
